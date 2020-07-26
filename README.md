@@ -17,10 +17,10 @@ To know more about the model click on the above link.<br>
 if you wish to unzip the file using command.<b>Follow the below step:</b><br>
   <ul>
     <li>Modify this line of code in colab notebook.<br>
-      <b>`!unzip` "[source file path]" ` -d `"[target directory]"</b>
+      <b>!unzip "[source file path]"  -d "[target directory]"</b>
       <br>
-      ><b>`[`source file path`]`</b>-the directory where your .zip file resides<br>
-      ><b>`[`target directory`]`</b>-the directory where you want to unzip the file
+      ><b>[source file path]</b>-the directory where your .zip file resides<br>
+      ><b>[target directory]</b>-the directory where you want to unzip the file
     </li>
   </ul>
 <h3>Dataset:</h3>
