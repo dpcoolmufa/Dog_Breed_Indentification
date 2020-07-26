@@ -16,7 +16,7 @@ To know more about the model click on the above link.<br>
 <b>Note:</b> Before running the notebook download the data(<b>.zip</b>) and mount google drive in colab . Upload the file to google drive and unzip it.
 if you wish to unzip the file using command.<b>Follow the below step:</b><br>
   <ul>
-    <li>Modify this line of code in colab notebook.<br>
+    <li>Modify the below line of code in colab notebook.<br>
       <b>!unzip "[source file path]"  -d "[target directory]"</b>
       <br>
       ><b>[source file path]</b>-the directory where your .zip file resides<br>
