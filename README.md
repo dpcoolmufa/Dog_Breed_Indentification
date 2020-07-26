@@ -13,7 +13,7 @@ To know more about the model click on the above link.<br>
   <li>To run all cell press ctrl+f9(for more options goto runtime).</li>
 </ol>
 
-<b>Note:</b> Before running the notebook download the dataset. It is a .zip file .Upload the file to google drive and unzip it.
+<b>Note:</b> Before running the notebook download the data(<b>.zip</b>) and mount google drive in colab . Upload the file to google drive and unzip it.
 if you wish to unzip the file using command.<b>Follow the below step:</b><br>
   <ul>
     <li>Modify this line of code in colab notebook.<br>
@@ -21,7 +21,7 @@ if you wish to unzip the file using command.<b>Follow the below step:</b><br>
       <br>
       ><b>`[`source file path`]`</b>-the directory where your .zip file resides<br>
       ><b>`[`target directory`]`</b>-the directory where you want to unzip the file
-    <li>
+    </li>
   </ul>
 <h3>Dataset:</h3>
 <ul>
